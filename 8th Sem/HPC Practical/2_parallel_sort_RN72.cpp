@@ -135,3 +135,18 @@ int main() {
 
     return 0;
 }
+
+/*
+Enter the size of the array: 5
+Enter the elements of the array:
+Element 1: 42
+Element 2: 45
+Element 3: 72
+Element 4: 25
+Element 5: 15
+Parallel Bubble Sort Result:
+15 25 42 45 72 
+Parallel Merge Sort Result:
+15 25 42 45 72 
+
+*/
